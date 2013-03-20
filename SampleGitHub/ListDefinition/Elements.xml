@@ -11,4 +11,6 @@
         DisplayName="SampleGitHubList"
         Description="My List Definition"
         Image="/_layouts/images/itgen.png"/>
+
+  <ListInstance Id="kjahdkjha" Description=" " Title="Test"></ListInstance>
 </Elements>
